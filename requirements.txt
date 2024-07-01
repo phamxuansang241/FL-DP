@@ -11,5 +11,5 @@ tinyec
 seaborn
 pandas
 scikit-learn
-numpy==1.24.1
-matplotlib==3.7.1
+numpy
+matplotlib
